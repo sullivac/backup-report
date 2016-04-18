@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackupReport", "BackupReport\BackupReport.csproj", "{3C64B36C-E479-4BCF-9447-377DECA211D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackupReport.Tests", "BackupReport.Tests\BackupReport.Tests.csproj", "{C136CD7C-5A5F-46DC-9149-A9F3F5CF67BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C64B36C-E479-4BCF-9447-377DECA211D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C64B36C-E479-4BCF-9447-377DECA211D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C64B36C-E479-4BCF-9447-377DECA211D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C64B36C-E479-4BCF-9447-377DECA211D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C136CD7C-5A5F-46DC-9149-A9F3F5CF67BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C136CD7C-5A5F-46DC-9149-A9F3F5CF67BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C136CD7C-5A5F-46DC-9149-A9F3F5CF67BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C136CD7C-5A5F-46DC-9149-A9F3F5CF67BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
